@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "company": "Tech Innovators",
+      "description": "Develop and maintain web applications.",
+      "type": "Remote",
+      "location": "San Francisco",
+      "firstDate": "08/05/2024",
+      "deadlineDate": "08/09/2024",
+      "application": 10,
+      "src": "/holding_image.png"
+    },
+    {
+      "id": "2",
+      "title": "Data Scientist",
+      "company": "Data Wizards",
+      "description": "Analyze large datasets to extract meaningful insights.",
+      "type": "Onsite",
+      "location": "New York",
+      "firstDate": "08/03/2024",
+      "deadlineDate": "09/18/2024",
+      "application": 20,
+      "src": "/holding_image.png"
+    },
+    {
+      "id": "3",
+      "title": "UX Designer",
+      "company": "Creative Minds",
+      "description": "Design user interfaces for mobile and web applications.",
+      "type": "Hybrid",
+      "location": "Los Angeles",
+      "firstDate": "08/01/2024",
+      "deadlineDate": "09/04/2024",
+      "application": 30,
+      "src": "/holding_image.png"
+    },
+    {
+      "id": "4",
+      "title": "Project Manager",
+      "company": "Enterprise Solutions",
+      "description": "Manage projects and ensure timely delivery.",
+      "type": "Remote",
+      "location": "Chicago",
+      "firstDate": "07/05/2024",
+      "deadlineDate": "09/03/2024",
+      "application": 120,
+      "src": "/holding_image.png"
+    },
+    {
+      "id": "5",
+      "title": "Marketing Specialist",
+      "company": "Brand Builders",
+      "description": "Develop and execute marketing strategies.",
+      "type": "Onsite",
+      "location": "Miami",
+      "firstDate": "08/05/2024",
+      "deadlineDate": "09/01/2024",
+      "application": 3,
+      "src": "/holding_image.png"
+    },
+    {
+      "id": "6",
+      "title": "Network Engineer",
+      "company": "Secure Networks",
+      "description": "Design and implement network infrastructure.",
+      "type": "Hybrid",
+      "location": "Austin",
+      "firstDate": "08/05/2024",
+      "deadlineDate": "09/06/2024",
+      "application": 2,
+      "src": "/holding_image.png"
+    }
+  ]
+}
